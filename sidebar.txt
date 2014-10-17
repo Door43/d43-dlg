@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dlg:home|Door43 (dlg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dlg|d43-dlg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dlg/archive/master.zip|d43-dlg.zip]]
+
+**Recent Changes**
+{{changes>ns = dlg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dlg|Ethnologue data]]
+
